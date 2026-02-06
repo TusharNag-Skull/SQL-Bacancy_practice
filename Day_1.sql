@@ -1,0 +1,3 @@
+-- --------------------------DAY 1 ----------------------------------------------------------------
+-- Day 1 was all about Installation 
+-- Mysql workbench is installed in my device
